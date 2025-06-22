@@ -1,0 +1,15 @@
+.bg-image {
+  /* background: url("../../public/assets/craft-beer-category.jpg") no-repeat center center; */
+  background: url("../../public/assets/beer-category.jpg") no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  min-height: 75vh;
+}
+
+.bg-opacity {
+  min-height: 75vh;
+  background-color: rgba(0, 0, 0, 0.562);
+}

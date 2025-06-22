@@ -1,0 +1,31 @@
+.cart-image {
+  height: 85px;
+  width: 85px;
+  object-fit: cover;
+}
+
+.back {
+  color: #795548;
+}
+
+.btn-cart-page {
+  border: #795548 1px solid;
+  color: white;
+  font-size: 1rem;
+  background-color: #795548;
+}
+
+.btn-cart-page:hover {
+  background-color: #795548;
+  opacity: 0.6;
+  color: white;
+}
+
+a,
+.custom-btn-quantity {
+  color: #795548;
+}
+
+.cart-quantity {
+  width: 3rem;
+}

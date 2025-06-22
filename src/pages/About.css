@@ -1,0 +1,43 @@
+.about-text {
+  width: 70vw;
+  margin: auto;
+}
+
+.ul-list {
+  list-style: none;
+  margin-left: -2rem;
+}
+.img-rounded {
+  object-fit: cover;
+}
+.icon-size {
+  font-size: 1.5rem;
+}
+.team-cards {
+  margin-top: 30px;
+  background: #7955481f;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+.vercel {
+  margin-left: -1rem;
+}
+.mysql {
+  margin-left: -0.4rem;
+}
+.node {
+  margin-left: -0.2rem;
+}
+
+.btn-reset {
+  background-color: #795548;
+  border: #795548 1px solid;
+  color: white;
+  font-size: 1rem;
+}
+
+.btn-reset:hover {
+  background-color: #795548;
+  opacity: 0.6;
+  color: white;
+}

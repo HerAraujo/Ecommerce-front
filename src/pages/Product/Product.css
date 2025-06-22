@@ -1,0 +1,21 @@
+#product-image {
+  height: 700px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.btn-product-page {
+  border: #795548 1px solid;
+  color: #795548;
+}
+
+.btn-product-page:hover {
+  background-color: #795548;
+  opacity: 0.6;
+  color: aliceblue;
+}
+
+#product-input-quantity {
+  border: #795548 1px solid;
+  color: #795548;
+}

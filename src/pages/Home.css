@@ -1,0 +1,7 @@
+.slide {
+  object-fit: cover;
+  height: 75vh;
+  margin: auto;
+  background-color: white;
+  width: 100%;
+}

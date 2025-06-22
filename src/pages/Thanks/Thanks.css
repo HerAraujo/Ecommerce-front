@@ -1,0 +1,15 @@
+.bg-image-thanks {
+  background: url("https://images.unsplash.com/photo-1436076863939-06870fe779c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80")
+    no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  position: relative;
+  min-height: 85vh;
+}
+
+.bg-opacity-thanks {
+  min-height: 85vh;
+  background-color: rgba(0, 0, 0, 0.562);
+}

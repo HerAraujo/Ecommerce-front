@@ -1,0 +1,20 @@
+.btn-confirm-purchase {
+  background-color: #795548;
+  border: #795548 1px solid;
+  color: white;
+  font-size: 1rem;
+}
+
+.btn-confirm-purchase:hover {
+  background-color: #795548;
+  opacity: 0.6;
+  color: white;
+}
+
+#cart-list li {
+  color: #795548;
+}
+
+.payment-logo {
+  width: 12rem;
+}

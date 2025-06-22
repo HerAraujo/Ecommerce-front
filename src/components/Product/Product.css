@@ -1,0 +1,44 @@
+#related-product-image {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+  padding: 10px;
+}
+
+.product-text-color {
+  padding: 10px;
+}
+
+.custom-product-card {
+  border-radius: 5px;
+  transition: all 0.5s 0.2s;
+}
+
+.custom-product-card:hover {
+  transform: scale(1.2);
+}
+
+.product-link {
+  text-decoration: none;
+  color: black;
+}
+
+.product-link:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.product-text-color {
+  color: #795548;
+}
+
+.btn-product-add-cart {
+  border: #795548 1px solid;
+  color: #795548;
+}
+
+.btn-product-add-cart:hover {
+  background-color: #795548;
+  color: white;
+  opacity: 0.6;
+}
