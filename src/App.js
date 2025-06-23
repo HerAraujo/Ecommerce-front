@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="App d-flex flex-column h-100">
       <Link to="/about">
-        <button class="btn-about bg-white ">About this project</button>
+        <button className="btn-about bg-white ">About this project</button>
       </Link>
 
       <ToastContainer

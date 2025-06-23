@@ -68,10 +68,10 @@ function About() {
             <p className="fs-4 fw-bold mb-0">Germán Araújo</p>
             <p className="fs-6">Full Stack Developer</p>
             <a href="https://www.linkedin.com/in/german-araujo95/" target="_blank" rel="noreferrer">
-              <i class="fa-brands fa-linkedin icon-size me-3"></i>
+              <i className="fa-brands fa-linkedin icon-size me-3"></i>
             </a>
             <a href="https://github.com/Geraraujo" target="_blank" rel="noreferrer">
-              <i class="fa-brands fa-github icon-size"></i>
+              <i className="fa-brands fa-github icon-size"></i>
             </a>
           </div>
           <div className="col">
@@ -94,10 +94,10 @@ function About() {
               target="_blank"
               rel="noreferrer"
             >
-              <i class="fa-brands fa-linkedin icon-size me-3"></i>
+              <i className="fa-brands fa-linkedin icon-size me-3"></i>
             </a>
             <a href="https://github.com/stephanieesquire" target="_blank" rel="noreferrer">
-              <i class="fa-brands fa-github icon-size"></i>
+              <i className="fa-brands fa-github icon-size"></i>
             </a>
           </div>
           <div className="col">
@@ -116,10 +116,10 @@ function About() {
             <p className="fs-4 fw-bold mb-0">Hernán Araújo</p>
             <p className="fs-6">Full Stack Developer</p>
             <a href="https://www.linkedin.com/in/hernan-araujo99/" target="_blank" rel="noreferrer">
-              <i class="fa-brands fa-linkedin icon-size me-3"></i>
+              <i className="fa-brands fa-linkedin icon-size me-3"></i>
             </a>
             <a href="https://github.com/HerAraujo" target="_blank" rel="noreferrer">
-              <i class="fa-brands fa-github icon-size"></i>
+              <i className="fa-brands fa-github icon-size"></i>
             </a>
           </div>
         </div>
