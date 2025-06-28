@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "./About.css";
 import axios from "axios";
 import Spinner from "react-bootstrap/Spinner";

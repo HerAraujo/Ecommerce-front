@@ -13,6 +13,7 @@ import { Spinner } from "react-bootstrap";
 import CheckCircleOutlineIcon from "@mui/icons-material/CheckCircleOutline";
 
 function Checkout() {
+  // Seteamos los estados necesarios para probar el formulario de checkout sin tener que ingresar datos
   const [firstname, setFirstname] = useState("Firstname");
   const [lastname, setLastname] = useState("Lastname");
   const [email, setEmail] = useState("example@gmail.com");
