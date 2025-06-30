@@ -207,7 +207,7 @@ function About() {
 
         <p className="about-text mt-5">
           In addition to having created the sections within the site, we implemented a{" "}
-          <a href="https://crafters-admin.vercel.app/" target="_blank" rel="noreferrer">
+          <a href={`${process.env.ADMIN_PAGE_HOST}`} target="_blank" rel="noreferrer">
             dashboard
           </a>{" "}
           where it is possible to perform administrator actions. <link></link>
@@ -228,7 +228,7 @@ function About() {
             <ul className="ul-list">
               <li>E-mail: admin@gmail.com</li>
               <li>Password: admin</li>
-              <a href="https://crafters-admin.vercel.app/" target="_blank" rel="noreferrer">
+              <a href={`${process.env.ADMIN_PAGE_HOST}`} target="_blank" rel="noreferrer">
                 Go to admin website
               </a>{" "}
             </ul>
